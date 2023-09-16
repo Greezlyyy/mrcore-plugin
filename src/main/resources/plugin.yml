@@ -1,0 +1,26 @@
+name: MrCore
+version: '${project.version}'
+main: dev.yuri.mrcore.MrCore
+authors: [ Yuri ]
+softdepend:
+  - ActionBarAPI
+commands:
+  fly:
+  gmc:
+  gms:
+  gmsp:
+  gma:
+  day:
+  night:
+  heal:
+  clearchat:
+    aliases:
+      - cc
+      - cchat
+      - clearc
+  setspawn:
+  spawn:
+  build:
+  vanish:
+  kickall:
+  tp:

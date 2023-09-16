@@ -1,0 +1,58 @@
+#####################################################################
+no-permission: "&cNon hai il permesso!"
+#####################################################################
+fly-enabled: "&aVip &8> &eFly &aABILITATA"
+fly-disabled: "&aVip &8> &eFly &cDISABILITATA"
+
+fly-enabled-others: "&bStaff &8> &eFly &aABILITATA &ea &b%player%"
+fly-disabled-others: "&bStaff &8> &eFly &cDISABILITATA &ea &b%player%"
+#####################################################################
+player-not-found: "&cGiocatore non trovato"
+#####################################################################
+gmc-enabled: "&bStaff &8> &eCreative &aABILITATA"
+gmc-disabled: "&bStaff &8> &eCreative &cDISABILITATA"
+
+gmc-enabled-others: "&bStaff &8> &eCreative &aABILITATA &ea &b%player%"
+gmc-disabled-others: "&bStaff &8> &eCreative &cDISABILITATA &ea &b%player%"
+#####################################################################
+day: "&bStaff &8> &eHai messo giorno"
+night: "&bStaff &8> &eHai messo notte"
+#####################################################################
+heal-usage: "&cUtilizzo: /heal <player>"
+heal: "&bStaff &8> &eHai guarito &b%player%"
+#####################################################################
+set-spawn: "&bStaff &8> &eHai settato lo spawn!"
+
+spawn-not-set: "&6Hub &8> &cLo spawn della hub non è settato!"
+#####################################################################
+join-message: "&8[&a+&8] &7%player%"
+quit-message: "&8[&c-&8] &7%player%"
+#####################################################################
+vanish-enabled: "&bStaff &8> &eVanish &aABILITATA"
+vanish-disabled: "&bStaff &8> &eVanish &cDISABILITATA"
+
+vanish-enabled-actionbar: "&aSei in vanish!"
+
+vanish-enabled-alert: "&bStaff &8> &e%player% ha &aABILITATO &ela Vanish"
+vanish-disabled-alert: "&bStaff &8> &e%player% ha &cDISABILITATO &ela Vanish"
+#####################################################################
+spawn-on-join: false
+#####################################################################
+gms: "&bStaff &8> &eModalità di gioco impostata su &aSURVIVAL"
+already-gms: "&bStaff &8> &cLa tua modalità di gioco è già impostata su &4SURVIVAL&c!"
+
+gms-others: "&bStaff &8> &eModalità di gioco di &a%target% &eimpostata su &aSURVIVAL"
+already-gms-others: "&bStaff &8> &cLa modalità di gioco di &4%target% &cè già impostata su &4SURVIVAL&c!"
+#####################################################################
+gmsp: "&bStaff &8> &eModalità di gioco impostata su &aSPECTATOR"
+already-gmsp: "&bStaff &8> &cLa tua modalità di gioco è già impostata su &4SPECTATOR&c!"
+
+gmsp-others: "&bStaff &8> &eModalità di gioco di &a%target% &eimpostata su &aSPECTATOR"
+already-gmsp-others: "&bStaff &8> &cLa modalità di gioco di &4%target% &cè già impostata su &4SPECTATOR&c!"
+#####################################################################
+gma: "&bStaff &8> &eModalità di gioco impostata su &aADVENTURE"
+already-gma: "&bStaff &8> &cLa tua modalità di gioco è già impostata su &4ADVENTURE&c!"
+
+gma-others: "&bStaff &8> &eModalità di gioco di &a%target% &eimpostata su &aADVENTURE"
+already-gma-others: "&bStaff &8> &cLa modalità di gioco di &4%target% &cè già impostata su &4ADVENTURE&c!"
+#####################################################################
